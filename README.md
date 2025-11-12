@@ -1,3 +1,3 @@
-# learn
-Learnsoft.org's GCP Data Engineering Training kolkata in helps learners master Google Cloud tools like Big Query and Dataflow. It offers hands-on projects, expert guidance, flexible learning options, and career support to build scalable data pipelines and prepare for data engineering roles.
-https://www.learnsoft.org/kolkata/gcp-data-engineering-training-in-kolkata
+#learn
+Learnsoft.org’s Microsoft Fabric Training is designed to equip IT professionals, data engineers, analysts, and developers with the skills to harness the full potential of Microsoft’s unified analytics platform. Microsoft Fabric brings together data engineering, data integration, warehousing, lakehouse, and real-time analytics in one ecosystem, enabling organizations to extract actionable insights efficiently. This course combines theoretical knowledge with hands-on exercises and real-world projects to make you job-ready in modern analytics environments.
+https://www.learnsoft.org/kolkata/ms-fabric-training-in-kolkata
